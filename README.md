@@ -1,4 +1,4 @@
-# 🎥 YouTube Video Summarizer Bot 🤖
+# 🎥 YouTube Video Summarizer
 
 ## 📝 Description
 
