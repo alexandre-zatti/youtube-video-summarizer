@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-This project is an automated YouTube assistant that summarizes the latest video from a specified channel. It uses AI to analyze video transcripts and provide concise, informative comments for viewers.
+This project is a straightforward application that leverages AI to analyze the transcript of a YouTube video. It summarizes the key points and generates a comment for other users to view and engage with.
 
 ## 🌟 Features
 
